@@ -1,15 +1,21 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Dashboard de monitoreo del desempeño e indicadores para áreas de manufactura para Regal Rexnord
 
-First, run the development server:
+Los objetivos de este proyecto son:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+Analizar los requisitos y definir los casos de uso para el sistema.
+Diseñar la arquitectura y la interfaz de usuario del sistema.
+Desarrollar la plataforma web utilizando tecnologías modernas y estándares de seguridad.
+Implementar las funciones de autenticación de usuarios, roles y permisos.
+Desarrollar la funcionalidad de visualización de datos sobre el desempeño de los empleados y las actividades de producción.
+Desarrollar la funcionalidad de asignación de tareas y seguimiento de actividades.
+Implementar las funciones de visualización de datos sobre incidentes de seguridad y de manufactura.
+Desarrollar las funciones de registro y restablecimiento de contraseñas para los usuarios.
+Realizar pruebas unitarias y de integración para garantizar la calidad del sistema.
+Implementar la capacidad de procesar grandes cantidades de datos y generar estadísticas precisas.
+Desplegar la plataforma web en un ambiente de producción
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
