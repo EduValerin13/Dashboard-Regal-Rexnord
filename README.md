@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Dashboard de monitoreo del desempeño e indicadores para áreas de manufactura para Regal Rexnord
+
+El problema que aborda este proyecto se relaciona con la necesidad de la empresa Regal Rexnord de contar con una plataforma web que permita a los administradores de la empresa visualizar información relevante sobre el desempeño de los empleados y la productividad de las áreas de manufactura. Además, se requiere que la plataforma permita a los supervisores de producción reportar incidentes de seguridad y asignar tareas a otros usuarios, y que los usuarios cuenten con distintos roles de acceso para proteger la información confidencial. Para cumplir con estos requerimientos, el proyecto debe contar con un equipo multidisciplinario que incluya analistas de sistemas, desarrolladores de software, especialistas en seguridad de la información, entre otros profesionales. La plataforma también debe ser capaz de procesar grandes volúmenes de datos y generar estadísticas precisas para apoyar la toma de decisiones en la empresa.
 
 Los objetivos de este proyecto son:
 
